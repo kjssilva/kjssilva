@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Karen Silva!
 **BI Strategist | F1 Data Storyteller | Consultant-in-the-Making**  
-Seattle-based 🇺🇸 | Originally from 🇧🇷 | Multilingual ⚡
+  Bilingual 🇺🇸 🇧🇷
 
 I specialize in turning raw data into sharp insights. Whether it’s a Formula 1 team or a business in transformation, I help decode complexity into strategy.  
 Currently building a portfolio focused on **Power BI dashboards, F1 case studies**, and **real business impact**.
@@ -16,19 +16,21 @@ Currently building a portfolio focused on **Power BI dashboards, F1 case studies
 
 ## 💼 Work & Project Experience
 
-### **Ferrari: The Strategic Breakdown** | *2025*  
-**Data Strategy • Culture Analysis • 9.4k+ Views**  
-Diagnosed Ferrari’s legacy trap and proposed a 4-step recovery model. Combined performance data, cultural research, and leadership insight into a powerful consulting-style case study.  
-
-
-### **TripleTen Sprint Projects**  
-- 🧹 **Sprint 1 – Data Cleaning**: pandas, NaN treatment, text normalization
-
-### **BI Analysis based on F1 Teams** 
-LinkedIn Articles  
+### **BI Analysis based on F1 Teams**  | *2025*  
+LinkedIn Articles 
 
 
 Check out my latest article: [Ferrari's Path to Reinvention – Part 2](https://www.linkedin.com/pulse/ferrari-path-reinvention-part-two-karen-silva-bn7cf/?trackingId=g%2BnJmWjSTvu3W0xq91PGqg%3D%3D)
+
+**Ferrari: Data Strategy & Culture Analysis • 9.4k+ Views**  
+Diagnosed Ferrari’s legacy trap and proposed a 4-step recovery model. Combined performance data, cultural research, and leadership insight into a powerful consulting-style case study.  
+
+🏎[Ferrari: The Legend, the Loop, and the One Thing That Won’t Change – Part 1](https://www.linkedin.com/pulse/ferrari-legend-loop-one-thing-wont-change-part-karen-silva-o5orc/?trackingId=6TJCHmh7ReabsEccseh%2BSw%3D%3D)
+
+🏎[Ferrari's Path to Reinvention – Part 2](https://www.linkedin.com/pulse/ferrari-path-reinvention-part-two-karen-silva-bn7cf/?trackingId=g%2BnJmWjSTvu3W0xq91PGqg%3D%3D)
+
+
+
 
 ### **TIVIT**
 IT Analyst
