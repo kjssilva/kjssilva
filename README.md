@@ -16,15 +16,28 @@ Currently building a portfolio focused on **Power BI dashboards, F1 case studies
 
 ## 💼 Work & Project Experience
 
+
+### **TIVIT**
+IT Analyst
+
+Carrying out preprocessing of structured data (SQL) presenting results in a clear manner.
+Collaborate with Business and IT teams to improve technical solutions.
+Processing, creating, and validating documentations for the technical knowledge database, optimizing  frame time of the customers partners.
+
 ### **Ferrari: The Strategic Breakdown** | *2025*  
-**🧠 Data Strategy • Culture Analysis • 9.4k+ Views**  
+**Data Strategy • Culture Analysis • 9.4k+ Views**  
 Diagnosed Ferrari’s legacy trap and proposed a 4-step recovery model. Combined performance data, cultural research, and leadership insight into a powerful consulting-style case study.  
 🔗 [PDF Case Study](Ferrari_Case_Study_Karen_Silva.pdf)
 
 ### **TripleTen Sprint Projects**  
-- 🧹 **Sprint 1 – Data Cleaning**: pandas, NaN treatment, text normalization  
-- 📊 **Sprint 2 – Exploratory Analysis**: SQL queries, grouped insights, metrics storytelling  
-- 📈 **Sprint 3+**: Business Dashboards, Power BI, decision-making frameworks
+- 🧹 **Sprint 1 – Data Cleaning**: pandas, NaN treatment, text normalization
+
+### **BI Analysis based on F1 Teams** 
+LinkedIn Articles  
+
+
+Check out my latest article: [Ferrari's Path to Reinvention – Part 2](https://www.linkedin.com/pulse/ferrari-path-reinvention-part-two-karen-silva-bn7cf/?trackingId=g%2BnJmWjSTvu3W0xq91PGqg%3D%3D)
+
 
 
 
@@ -43,7 +56,7 @@ Diagnosed Ferrari’s legacy trap and proposed a 4-step recovery model. Combined
 
 ## 💡 Areas of Interest
 - Business Intelligence & Strategy
-- Motorsport Analytics (F1, F2, F3)
+- Motorsport Analytics (F1)
 - Visual Storytelling & Insight Communication
 - Human-Centered Dashboards & Decision-Making Tools
 
