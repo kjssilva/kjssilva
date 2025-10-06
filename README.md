@@ -46,9 +46,8 @@ Processing, creating, and validating documentations for the technical knowledge 
 ![Excel](https://img.shields.io/badge/-Excel-green?style=flat&logo=microsoft-excel&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/-Jupyter-orange?style=flat&logo=Jupyter&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-gray?style=flat&logo=github&logoColor=white)
-![Canva](https://img.shields.io/badge/-Canva-blue?style=flat&logo=canva&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-blue?style=flat&logo=python&logoColor=white)
 
-(Also: Not afraid of Python… just deeply suspicious.)
 
 ---
 
