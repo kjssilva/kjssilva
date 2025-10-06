@@ -49,7 +49,7 @@ Diagnosed Ferrari’s legacy trap and proposed a 4-step recovery model. Combined
 
 ## 💡 Areas of Interest
 - Business Intelligence & Strategy
-- Motorsport Analytics (F1, F2, F3)
+- Motorsport Analytics (F1)
 - Visual Storytelling & Insight Communication
 - Human-Centered Dashboards & Decision-Making Tools
 
