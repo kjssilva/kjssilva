@@ -8,7 +8,7 @@ Currently building a portfolio focused on **Power BI dashboards, F1 case studies
 ---
 
 ## 🎓 Education
-
+- 📊 **Escola Politécnica Comendador Emanuel Manuel Pedro de Oliveira** | High School & IT Technician
 - 📊 **Postgraduate Certificate in Data Analytics** | TripleTen Bootcamp | *In Progress*
 - 📘 Additional coursework: Power BI | Excel for Analysis | SQL Fundamentals | Software Enginner | Python (when I must 😅)
 
@@ -47,6 +47,8 @@ Processing, creating, and validating documentations for the technical knowledge 
 ![Jupyter](https://img.shields.io/badge/-Jupyter-orange?style=flat&logo=Jupyter&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-gray?style=flat&logo=github&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-blue?style=flat&logo=python&logoColor=white)
+![ESL Certified](https://img.shields.io/badge/ESL%20Certified-C2-blueviolet?style=flat&logo=language&logoColor=white)
+
 
 
 ---
