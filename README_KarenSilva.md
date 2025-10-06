@@ -6,7 +6,7 @@ Seattle-based 🇺🇸 | Originally from 🇧🇷 | Multilingual ⚡
 I specialize in turning raw data into sharp insights. Whether it’s a Formula 1 team or a business in transformation, I help decode complexity into strategy.  
 Currently building a portfolio focused on **Power BI dashboards, F1 case studies**, and **real business impact**.
 
----
+--- 
 
 ## 🎓 Education
 
