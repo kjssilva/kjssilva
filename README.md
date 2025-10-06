@@ -10,19 +10,11 @@ Currently building a portfolio focused on **Power BI dashboards, F1 case studies
 ## 🎓 Education
 
 - 📊 **Postgraduate Certificate in Data Analytics** | TripleTen Bootcamp | *In Progress*
-- 📘 Additional coursework: Power BI | Excel for Analysis | SQL Fundamentals | Python (when I must 😅)
+- 📘 Additional coursework: Power BI | Excel for Analysis | SQL Fundamentals | Software Enginner | Python (when I must 😅)
 
 ---
 
 ## 💼 Work & Project Experience
-
-
-### **TIVIT**
-IT Analyst
-
-Carrying out preprocessing of structured data (SQL) presenting results in a clear manner.
-Collaborate with Business and IT teams to improve technical solutions.
-Processing, creating, and validating documentations for the technical knowledge database, optimizing  frame time of the customers partners.
 
 ### **Ferrari: The Strategic Breakdown** | *2025*  
 **Data Strategy • Culture Analysis • 9.4k+ Views**  
@@ -38,6 +30,12 @@ LinkedIn Articles
 
 Check out my latest article: [Ferrari's Path to Reinvention – Part 2](https://www.linkedin.com/pulse/ferrari-path-reinvention-part-two-karen-silva-bn7cf/?trackingId=g%2BnJmWjSTvu3W0xq91PGqg%3D%3D)
 
+### **TIVIT**
+IT Analyst
+
+Carrying out preprocessing of structured data (SQL) presenting results in a clear manner.
+Collaborate with Business and IT teams to improve technical solutions.
+Processing, creating, and validating documentations for the technical knowledge database, optimizing  frame time of the customers partners.
 
 
 
@@ -50,7 +48,7 @@ Check out my latest article: [Ferrari's Path to Reinvention – Part 2](https://
 ![GitHub](https://img.shields.io/badge/-GitHub-gray?style=flat&logo=github&logoColor=white)
 ![Canva](https://img.shields.io/badge/-Canva-blue?style=flat&logo=canva&logoColor=white)
 
-(Also: Not afraid of Python… just deeply suspicious. 😉)
+(Also: Not afraid of Python… just deeply suspicious.)
 
 ---
 
