@@ -26,12 +26,7 @@ Diagnosed Ferrari’s legacy trap and proposed a 4-step recovery model. Combined
 - 📊 **Sprint 2 – Exploratory Analysis**: SQL queries, grouped insights, metrics storytelling  
 - 📈 **Sprint 3+**: Business Dashboards, Power BI, decision-making frameworks
 
-### **F1 Data Projects** *(Coming Soon)*  
-- Podium Breakdown by Team (2010–2024)  
-- Pit Stop Efficiency Analysis  
-- Race Performance Dashboards
 
----
 
 ## 🛠️ Technical Skills
 
