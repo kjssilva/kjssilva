@@ -19,7 +19,7 @@ Currently building a portfolio focused on **Power BI dashboards, F1 case studies
 ### **Ferrari: The Strategic Breakdown** | *2025*  
 **Data Strategy • Culture Analysis • 9.4k+ Views**  
 Diagnosed Ferrari’s legacy trap and proposed a 4-step recovery model. Combined performance data, cultural research, and leadership insight into a powerful consulting-style case study.  
-🔗 [PDF Case Study](Ferrari_Case_Study_Karen_Silva.pdf)
+
 
 ### **TripleTen Sprint Projects**  
 - 🧹 **Sprint 1 – Data Cleaning**: pandas, NaN treatment, text normalization
