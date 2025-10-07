@@ -20,7 +20,7 @@ Currently building a portfolio focused on **Power BI dashboards, F1 case studies
 LinkedIn Articles 
 
 
-Check out my latest article: [Ferrari's Path to Reinvention – Part 2](https://www.linkedin.com/pulse/ferrari-path-reinvention-part-two-karen-silva-bn7cf/?trackingId=g%2BnJmWjSTvu3W0xq91PGqg%3D%3D)
+Check out my latest article: [Red Bull: From One-Driver Dynasty to Data-Driven Future](https://www.linkedin.com/pulse/red-bull-from-one-driver-dynasty-data-driven-future-karen-silva-tfmuc/?trackingId=9blxezlZRM2Jy1U%2FknVVEA%3D%3D)
 
 **Ferrari: Data Strategy & Culture Analysis • 9.4k+ Views**  
 Diagnosed Ferrari’s legacy trap and proposed a 4-step recovery model. Combined performance data, cultural research, and leadership insight into a powerful consulting-style case study.  
