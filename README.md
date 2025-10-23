@@ -22,11 +22,6 @@ When I’m not knee-deep in queries or color palettes, you’ll probably find me
 I believe good analysis doesn’t just inform, but it inspires.
 So whether it’s racing, business, or life, I’m here to translate data into clarity: One insight at a time.
 
-## 🎓 Education
-- 📊 **Escola Politécnica Comendador Emanuel Manuel Pedro de Oliveira** | High School & IT Technician
-- 📊 **Postgraduate Certificate in Data Analytics** | TripleTen Bootcamp | *In Progress*
-- 📘 Additional coursework: Power BI | Excel for Analysis | SQL Fundamentals | Software Enginner | Python (when I must 😅)
-
 ---
 
 ## 💼 Work & Project Experience
