@@ -1,3 +1,5 @@
+# 👋 Hi, I'm Karen Silva!
+
 BI Strategist | F1 Data Storyteller | Consultant-in-the-Making
 Bilingual 🇺🇸 🇧🇷
 
