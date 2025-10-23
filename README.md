@@ -1,7 +1,6 @@
 # 👋 Hi, I'm Karen Silva!
 
-BI Strategist | F1 Data Storyteller | Consultant-in-the-Making
-Bilingual 🇺🇸 🇧🇷
+**BI Strategist | F1 Data Storyteller | Consultant-in-the-Making | Bilingual 🇺🇸 🇧🇷**
 
 I’m the kind of person who gets unreasonably excited when a messy dataset finally makes sense.
 Give me chaos in CSV form — I’ll hand you back a dashboard with a storyline.
