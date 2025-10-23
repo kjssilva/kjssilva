@@ -23,6 +23,17 @@ I believe good analysis doesn’t just inform, but it inspires.
 So whether it’s racing, business, or life, I’m here to translate data into clarity: One insight at a time.
 
 ---
+## 🛠️ Technical Skills
+
+![SQL](https://img.shields.io/badge/-SQL-informational?style=flat&logo=postgresql&logoColor=white)
+![Power BI](https://img.shields.io/badge/-Power%20BI-yellow?style=flat&logo=powerbi&logoColor=white)
+![Excel](https://img.shields.io/badge/-Excel-green?style=flat&logo=microsoft-excel&logoColor=white)
+![Jupyter](https://img.shields.io/badge/-Jupyter-orange?style=flat&logo=Jupyter&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-gray?style=flat&logo=github&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-blue?style=flat&logo=python&logoColor=white)
+![ESL Certified](https://img.shields.io/badge/ESL%20Certified-C2-blueviolet?style=flat&logo=language&logoColor=white)
+
+---
 
 ## 💼 Work & Project Experience
 
@@ -51,15 +62,7 @@ Processing, creating, and validating documentations for the technical knowledge 
 
 
 
-## 🛠️ Technical Skills
 
-![SQL](https://img.shields.io/badge/-SQL-informational?style=flat&logo=postgresql&logoColor=white)
-![Power BI](https://img.shields.io/badge/-Power%20BI-yellow?style=flat&logo=powerbi&logoColor=white)
-![Excel](https://img.shields.io/badge/-Excel-green?style=flat&logo=microsoft-excel&logoColor=white)
-![Jupyter](https://img.shields.io/badge/-Jupyter-orange?style=flat&logo=Jupyter&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-gray?style=flat&logo=github&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-blue?style=flat&logo=python&logoColor=white)
-![ESL Certified](https://img.shields.io/badge/ESL%20Certified-C2-blueviolet?style=flat&logo=language&logoColor=white)
 
 
 
