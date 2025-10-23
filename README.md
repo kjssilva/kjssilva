@@ -1,11 +1,24 @@
-# 👋 Hi, I'm Karen Silva!
-**BI Strategist | F1 Data Storyteller | Consultant-in-the-Making**  
-  Bilingual 🇺🇸 🇧🇷
+BI Strategist | F1 Data Storyteller | Consultant-in-the-Making
+Bilingual 🇺🇸 🇧🇷
 
-I specialize in turning raw data into sharp insights. Whether it’s a Formula 1 team or a business in transformation, I help decode complexity into strategy.  
-Currently building a portfolio focused on **Power BI dashboards, F1 case studies**, and **real business impact**.
+I’m the kind of person who gets unreasonably excited when a messy dataset finally makes sense.
+Give me chaos in CSV form — I’ll hand you back a dashboard with a storyline.
 
----
+I’m obsessed with how data drives decisions — whether it’s helping a Formula 1 team shave milliseconds off a lap or helping a business stop guessing and start knowing.
+My superpower? Turning numbers into narratives people actually care about.
+
+Fueled by espresso shots, curiosity, and the holy trinity of Power BI | SQL | Python, I still find time to question life’s biggest metric: what’s the real KPI of happiness?
+
+When I’m not knee-deep in queries or color palettes, you’ll probably find me:
+
+🏎️ Analyzing race strategies like it’s a religion (because… it is).
+
+🎨 Redesigning dashboards just because they could look sexier.
+
+📊 Turning everyday chaos into data (yes, I once tracked how many times I said “just one more chart” — and no, it wasn’t once).
+
+I believe good analysis doesn’t just inform, but it inspires.
+So whether it’s racing, business, or life, I’m here to translate data into clarity: One insight at a time.
 
 ## 🎓 Education
 - 📊 **Escola Politécnica Comendador Emanuel Manuel Pedro de Oliveira** | High School & IT Technician
