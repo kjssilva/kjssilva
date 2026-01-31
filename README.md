@@ -36,11 +36,20 @@ So whether it’s racing, business, or life, I’m here to translate data into c
 
 ## 💼 Work & Project Experience
 
+### HP Case Study: When BI is Missing, Even Great Products Fall Hard
+  Article Link [Comming Soon]
+
+ * Problem Statement: Diagnosed a multi-million dollar "Silent Churn" funnel at HP driven by data decay (stale 2025 promotions) and poor UX taxonomy.
+
+ * Technical Audit: Modeled a monthly revenue leakage of $630k per 10k visitors using Python-based simulations
+
+ * Strategic Fixes: Proposed an automated Data Governance monitor and NLP intent-capture framework to turn "Pseudo-AI" chatbots into active market sensors.
+
 ### **BI Analysis based on F1 Teams**  | *2025*  
 LinkedIn Articles 
 
 
-Check out my latest article: [Red Bull: From One-Driver Dynasty to Data-Driven Future](https://www.linkedin.com/pulse/red-bull-from-one-driver-dynasty-data-driven-future-karen-silva-tfmuc/?trackingId=9blxezlZRM2Jy1U%2FknVVEA%3D%3D)
+* Check out my latest article: [Red Bull: From One-Driver Dynasty to Data-Driven Future](https://www.linkedin.com/pulse/red-bull-from-one-driver-dynasty-data-driven-future-karen-silva-tfmuc/?trackingId=9blxezlZRM2Jy1U%2FknVVEA%3D%3D)
 
 **Ferrari: Data Strategy & Culture Analysis • 9.4k+ Views**  
 Diagnosed Ferrari’s legacy trap and proposed a 4-step recovery model. Combined performance data, cultural research, and leadership insight into a powerful consulting-style case study.  
