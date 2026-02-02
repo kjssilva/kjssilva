@@ -37,7 +37,7 @@ So whether it’s racing, business, or life, I’m here to translate data into c
 ## 💼 Work & Project Experience
 
 ### HP Case Study: When BI is Missing, Even Great Products Fall Hard
-  Article Link (https://www.linkedin.com/pulse/when-business-intelligence-missing-even-great-products-karen-silva-g7lqc)
+  Article Published: [When Business Intelligence Is Missing, Even Great Products Fall Hard](https://www.linkedin.com/pulse/when-business-intelligence-missing-even-great-products-karen-silva-g7lqc)
 
  * Problem Statement: Diagnosed a multi-million dollar "Silent Churn" funnel at HP driven by data decay (stale 2025 promotions) and poor UX taxonomy.
 
